@@ -1,0 +1,1 @@
+"./circbuf_final.obj" "./functions_final.obj" "./main.obj" "./port_final.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "./timer_final.obj" "./uart_final.obj" "../msp432p401r.cmd" -llibc.a 
